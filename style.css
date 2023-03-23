@@ -1,0 +1,21 @@
+h1{
+    color:rgb(173, 1, 1);
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+body{
+    background-color: rgba(158, 158, 158, 0.678);
+
+}
+h4{
+    color:rgb(173, 1, 1);
+    font-size: 14px;
+    font-weight: bold;
+}
+p, ul, ol{
+    font-size: 12px;
+}
+table{
+    border-color: rgb(255, 0, 0);
+}
